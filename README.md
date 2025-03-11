@@ -1,4 +1,5 @@
-# Test
+# ARG_AG_Dev
+- Dieses Repo ist für die Devs der ARG-AG
 # Git Aufsetzungsprzess
 - Installation von Git
 - VSC öffnen
