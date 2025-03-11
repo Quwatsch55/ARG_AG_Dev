@@ -6,3 +6,6 @@
 - Source Controle git verknüpfen
 - git config --global user.name "username"
 - git config --global user.email "email"
+- ohne Adminrechte:
+  - git config --local user.name "Dein Name"
+  - git config --local user.email "deine@email.com"
