@@ -1,6 +1,6 @@
 # ARG_AG_Dev
 - Dieses Repo ist für die Devs der ARG-AG
-# Git Aufsetzungsprzess
+# Git Aufsetzungsprozess
 - Installation von Git
 - VSC öffnen
 - Source Controle git verknüpfen
